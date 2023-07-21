@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TahaReeh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate on new project
+- 💻 I’m a dotnet developer
+- 🤝 I’m looking to collaborate on new project
 - 📫 You Can Reach Me at : tahareehg@gmail.com
 
 <!---
