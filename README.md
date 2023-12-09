@@ -1,11 +1,11 @@
-### Hi, I'm Taha Reeh 👋
+### Hi, I'm Taha Reeh
 
 I’m a dotnet developer
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/taha-reeh/)
 
-### Visitor count
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=TahaReeh.TahaReeh&left_color=green&right_color=blue)
+![](https://komarev.com/ghpvc/?username=TahaReeh&color=blue&style=flat-square)
+
 
 
 <img src="https://github.com/TahaReeh/TahaReeh/blob/Master/forGitHub.png" alt="EvoTech" />
@@ -14,7 +14,7 @@ I’m a dotnet developer
 
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=github_dark)](https://github.com/TahaReeh/TahaReeh)
 
