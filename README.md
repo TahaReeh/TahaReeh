@@ -12,8 +12,8 @@ I’m a dotnet developer
 
 <hr/>
 ## &#x1f4c8; GitHub Stats
-<br/>
-<p><a href="https://github.com/TahaReeh/TahaReeh">
+
+<p style="padding-top:2px;"><a href="https://github.com/TahaReeh/TahaReeh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Taha's GitHub Stats" />
 </a>
 <a href="https://github.com/TahaReeh/TahaReeh">
