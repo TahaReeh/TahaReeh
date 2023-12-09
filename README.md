@@ -11,11 +11,14 @@ I’m a dotnet developer
 <img src="https://github.com/TahaReeh/TahaReeh/blob/Master/Evolinkedincover.jpg" alt="EvoTech" />
 
 <hr/>
+
+
+
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=ambient_gradient)](https://github.com/TahaReeh/TahaReeh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=shadow_blue)](https://github.com/TahaReeh/TahaReeh)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&theme=shadow_blue&layout=compact)
 
 </p>
 
