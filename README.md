@@ -5,7 +5,7 @@ I’m a dotnet developer
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/taha-reeh/)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/TahaReeh/count.svg" />
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=TahaReeh.TahaReeh&left_color=green&right_color=blue)
 
 
 <img src="https://github.com/TahaReeh/TahaReeh/blob/Master/forGitHub.png" alt="EvoTech" />
