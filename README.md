@@ -13,12 +13,9 @@ I’m a dotnet developer
 <hr/>
 ## &#x1f4c8; GitHub Stats
 
-<p><a href="https://github.com/TahaReeh/TahaReeh">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TahaReeh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a href="https://github.com/TahaReeh/TahaReeh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=ambient_gradient)](https://github.com/TahaReeh/TahaReeh)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&layout=compact)
 
 </p>
 
