@@ -16,9 +16,9 @@ I’m a dotnet developer
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=shadow_blue)](https://github.com/TahaReeh/TahaReeh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=github_dark)](https://github.com/TahaReeh/TahaReeh)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&theme=shadow_blue&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&theme=github_dark&layout=compact)
 
 </p>
 
