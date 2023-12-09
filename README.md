@@ -8,7 +8,7 @@ I’m a dotnet developer
 <img src="https://profile-counter.glitch.me/TahaReeh/count.svg" />
 
 
-<img src="https://github.com/TahaReeh/TahaReeh/blob/Master/Evolinkedincover.jpg" alt="EvoTech" />
+<img src="https://github.com/TahaReeh/TahaReeh/blob/Master/forGitHub.png" alt="EvoTech" />
 
 <hr/>
 
