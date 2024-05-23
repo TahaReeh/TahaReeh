@@ -8,19 +8,10 @@ I’m a dotnet developer
 
 
 
-<img src="https://github.com/TahaReeh/TahaReeh/blob/Master/forGitHub.png" alt="EvoTech" />
-
-<hr/>
 
 
 
-## GitHub Stats
-
-<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaReeh&show_icons=true&theme=github_dark)](https://github.com/TahaReeh/TahaReeh) --->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaReeh&theme=github_dark&layout=compact)
-
-
+<a href="https://app.daily.dev/tahareeh"><img src="https://api.daily.dev/devcards/v2/ECtfrlhtueQ1zqDNiDyoT.png?type=wide&r=yfk" width="652" alt="Taha Reeh's Dev Card"/></a>
 
 📫 You Can Reach Me at : tahareehg@gmail.com
 
