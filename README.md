@@ -4,15 +4,17 @@ I’m a dotnet developer
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/taha-reeh/)
 
-
-
-
-
-
-
-<a href="https://app.daily.dev/tahareeh"><img src="https://api.daily.dev/devcards/v2/ECtfrlhtueQ1zqDNiDyoT.png?type=default&r=8i7" width="356" alt="Taha Reeh's Dev Card"/></a>
+<img src="https://github.com/TahaReeh/TahaReeh/blob/Master/forGitHub.png" alt="EvoTech" />
 
 📫 You Can Reach Me at : tahareehg@gmail.com
+<br/>
+<br/>
+
+## DevCard
+<a href="https://app.daily.dev/tahareeh"><img src="https://api.daily.dev/devcards/v2/ECtfrlhtueQ1zqDNiDyoT.png?type=wide&r=8yf" width="652" alt="Taha Reeh's Dev Card" style="align-center"/></a>
+
+
+
 
 <!---
 TahaReeh/TahaReeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
