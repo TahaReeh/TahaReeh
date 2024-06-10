@@ -11,7 +11,7 @@ I’m a dotnet developer
 <br/>
 
 ## DevCard
-<a href="https://app.daily.dev/tahareeh"><img src="https://api.daily.dev/devcards/v2/ECtfrlhtueQ1zqDNiDyoT.png?type=wide&r=8yf" width="500" alt="Taha Reeh's Dev Card"/></a>
+<a href="https://app.daily.dev/tahareeh"><img src="https://api.daily.dev/devcards/v2/ECtfrlhtueQ1zqDNiDyoT.png?type=wide&r=ybe" width="652" alt="Taha Reeh's Dev Card"/></a>
 
 
 
